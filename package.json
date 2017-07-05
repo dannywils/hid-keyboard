@@ -1,0 +1,10 @@
+{
+  "name": "hid",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-hid": "^0.5.4",
+    "robotjs": "^0.4.7"
+  }
+}
